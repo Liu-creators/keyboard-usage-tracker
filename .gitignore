@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.pyinstaller-config/
+build/
+dist/
+*.sqlite3
+*.db
